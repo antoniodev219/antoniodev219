@@ -60,17 +60,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
 <code><img height="20" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 
-📊 **This week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-React.js | Vue.js | TypeScript   19 hrs 33 mins   ███████████████░░░░░░░░░░   59.64 %
-PHP | Python | Django            26 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 %
-Other                            8 hrs 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   9.31 %
-```
-
-<!--END_SECTION:waka-->
-
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->       
 🌸  Completed 1 task today           
